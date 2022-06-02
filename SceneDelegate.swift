@@ -1,9 +1,8 @@
 //
-//  SceneDelegate.swift
-//  Test
+//  AppDelegate.swift
+//  Dice
 //
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Orfeas Magoulas on 6/1/2022.
 //
 
 import UIKit
